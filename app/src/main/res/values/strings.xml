@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="Hello_World">Hello world!!!</string>
+
+    <string-array name="my_string_array">
+        <item>First String</item>
+        <item>Second String</item>
+        <item>Third String</item>
+    </string-array>
 </resources>

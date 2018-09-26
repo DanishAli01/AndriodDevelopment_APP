@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="string_array_res">
+        <item>1.String Array in res/values/arrays.xlm</item>
+        <item>2.String Array in res/values/arrays.xlm</item>
+        <item>3.String Array in res/values/arrays.xlm</item>
+    </string-array>
+
+    <array name="array_res">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </array>
+</resources>
